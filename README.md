@@ -1,2 +1,2 @@
-# demo-my_website
-Git/GitHub Course Demo
+# My Website
+This is a really awesome website
